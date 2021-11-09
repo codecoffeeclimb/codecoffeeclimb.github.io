@@ -19,8 +19,3 @@ hugo server -D
 ```
 hugo -D
 ```
-
-## Deploy
-```
-git subtree push --prefix public  origin gh-pages
-```
