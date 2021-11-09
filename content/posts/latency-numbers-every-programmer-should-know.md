@@ -23,6 +23,6 @@ Read 1 MB sequentially from disk .... 20,000,000 ns  =  20 ms
 Send packet CA->Netherlands->CA .... 150,000,000 ns  = 150 ms
 ```
 
-Finally, here is the link to a visual representation of these numbers and how they changes over the past 30 years. Enjoy!
+Finally, here is the link to a visual representation of these numbers and how they change over the past 30 years. Enjoy!
 
 [https://colin-scott.github.io/personal_website/research/interactive_latency.html](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
