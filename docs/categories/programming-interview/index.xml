@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Interview on Code Coffee Climb</title>
+    <link>https://codecoffeeclimb.github.io/categories/programming-interview/</link>
+    <description>Recent content in Programming Interview on Code Coffee Climb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Nov 2021 13:37:35 -0800</lastBuildDate><atom:link href="https://codecoffeeclimb.github.io/categories/programming-interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latency Numbers Every Programmer Should Know</title>
+      <link>https://codecoffeeclimb.github.io/posts/latency-numbers-every-programmer-should-know/</link>
+      <pubDate>Tue, 09 Nov 2021 13:37:35 -0800</pubDate>
+      
+      <guid>https://codecoffeeclimb.github.io/posts/latency-numbers-every-programmer-should-know/</guid>
+      <description>As a software developer, you should know following numbers to help you understand how your software performs in big picture. For example, reading from memory is 100,000 times faster than reading from disk (10 ms disk seek in this case). So putting up a memory cache and having data in memory as much as possible is very important. Here is another example, with 1 Gpbs network, sending 1 MB data over network is roughly at same speed of reading them from disk.</description>
+    </item>
+    
+    <item>
+      <title>Just Enough for Interview</title>
+      <link>https://codecoffeeclimb.github.io/posts/just-enough-for-interview/</link>
+      <pubDate>Tue, 09 Nov 2021 11:57:10 -0800</pubDate>
+      
+      <guid>https://codecoffeeclimb.github.io/posts/just-enough-for-interview/</guid>
+      <description>Just Enough for Interview is a blog post series that tries to cover the common technical programming interview topics with just right amount of information. If you like it or find it useful, please share with your friends. Cheers!</description>
+    </item>
+    
+  </channel>
+</rss>
