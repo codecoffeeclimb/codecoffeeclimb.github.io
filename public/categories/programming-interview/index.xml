@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming Interview on Code Coffee Climb</title>
+    <link>https://codecoffeeclimb.github.io/categories/programming-interview/</link>
+    <description>Recent content in Programming Interview on Code Coffee Climb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Nov 2021 11:57:10 -0800</lastBuildDate><atom:link href="https://codecoffeeclimb.github.io/categories/programming-interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Enough for Interview</title>
+      <link>https://codecoffeeclimb.github.io/posts/just-enough-for-interview/</link>
+      <pubDate>Tue, 09 Nov 2021 11:57:10 -0800</pubDate>
+      
+      <guid>https://codecoffeeclimb.github.io/posts/just-enough-for-interview/</guid>
+      <description>Just Enough for Interview is a blog post series that tries to cover the common technical programming interview topics with just right amount of information. If you like it or find it useful, please share with your friends. Cheers!</description>
+    </item>
+    
+  </channel>
+</rss>
