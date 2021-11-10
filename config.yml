@@ -27,15 +27,18 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   homeInfoParams:
-    Title: Code Coffee Climb
+    Title: Code Coffee Climb ☕
     Content: >
-        Welcome to my blog. I write articles about programming for grown ups and kids.
+        Welcome to my blog. I write articles about programming for grown ups and kids. 
+        I also enjoy drinking coffee and doing rock climbing. Hope you will enjoy. Cheers!
   socialIcons:
     - name: github
       url: https://github.com/codecoffeeclimb
     - name: RsS
       url: index.xml
-
+    - name: youtube
+      url: https://www.youtube.com/channel/UCiEldrWJU5aA7LfR-AuoEaQ
+    # ![Coffee Beans](/images/coffeebean.jpeg)
 outputs:
   home: 
     - HTML
