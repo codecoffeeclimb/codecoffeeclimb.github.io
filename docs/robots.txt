@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://codecoffeeclimb.github.io/sitemap.xml

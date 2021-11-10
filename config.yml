@@ -4,6 +4,17 @@ title: Code Coffee Climb
 theme: PaperMod
 publishDir: docs
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
 languages:
   en:
     languageName: "English"
@@ -22,15 +33,29 @@ languages:
         - name: Categories
           url: categories/
           weight: 10
+
+outputs:
+  home: 
+    - HTML
+    - RSS
+    - JSON
+
 params:
-  ShowShareButtons:  true
-  ShowBreadCrumbs: true
+  env: production
+
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
   ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
   homeInfoParams:
     Title: Code Coffee Climb ☕
     Content: >
         Welcome to my blog. I write articles about programming for grown ups and kids. 
-        I also enjoy drinking coffee and doing rock climbing. Hope you will enjoy. Cheers!
+        I also like drinking coffee and rock climbing. Hope you will enjoy this blog. Cheers!
   socialIcons:
     - name: github
       url: https://github.com/codecoffeeclimb
@@ -39,8 +64,37 @@ params:
     - name: youtube
       url: https://www.youtube.com/channel/UCiEldrWJU5aA7LfR-AuoEaQ
     # ![Coffee Beans](/images/coffeebean.jpeg)
-outputs:
-  home: 
-    - HTML
-    - RSS
-    - JSON
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
