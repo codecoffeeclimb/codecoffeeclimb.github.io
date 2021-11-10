@@ -1,5 +1,0 @@
-baseURL = 'https://codecoffeeclimb.github.io/'
-languageCode = 'en-us'
-title = 'Code Coffee Climb'
-theme = 'PaperMod'
-publishDir = 'docs'

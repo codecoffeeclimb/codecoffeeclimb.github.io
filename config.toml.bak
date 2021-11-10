@@ -1,0 +1,16 @@
+baseURL = 'https://codecoffeeclimb.github.io/'
+languageCode = 'en-us'
+title = 'Code Coffee Climb'
+theme = 'PaperMod'
+publishDir = 'docs'
+
+[params]
+ShowShareButtons = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+[[homeInfoParams]]
+Title = "Hi there wave"
+Content = "Can be Info"
+
+[outputs]
+home = [ 'HTML', 'RSS', 'JSON' ]
