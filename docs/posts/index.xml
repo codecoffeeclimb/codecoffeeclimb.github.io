@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Code Coffee Climb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Nov 2021 13:37:35 -0800</lastBuildDate><atom:link href="https://codecoffeeclimb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 09:19:54 -0800</lastBuildDate><atom:link href="https://codecoffeeclimb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Ultimate Book of System Design Interview</title>
+      <link>https://codecoffeeclimb.github.io/posts/the-ultimate-book-of-system-design-interview/</link>
+      <pubDate>Wed, 24 Nov 2021 09:19:54 -0800</pubDate>
+      
+      <guid>https://codecoffeeclimb.github.io/posts/the-ultimate-book-of-system-design-interview/</guid>
+      <description>If you only want to read one book for system design interview, then this is the book - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems.
+
+This book covers almost all aspects of what you need to know about a modern distributed software system with right depth and examples. Read it as many times as you can, then you will be all set for system design interview.</description>
+    </item>
+    
     <item>
       <title>Latency Numbers Every Programmer Should Know</title>
       <link>https://codecoffeeclimb.github.io/posts/latency-numbers-every-programmer-should-know/</link>
