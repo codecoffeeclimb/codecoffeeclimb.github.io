@@ -6,7 +6,17 @@
     <description>Recent content on Code Coffee Climb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 09:19:54 -0800</lastBuildDate><atom:link href="https://codecoffeeclimb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 08:49:59 -0800</lastBuildDate><atom:link href="https://codecoffeeclimb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Trouble With Distributed Systems</title>
+      <link>https://codecoffeeclimb.github.io/posts/the-trouble-with-distributed-systems/</link>
+      <pubDate>Wed, 01 Dec 2021 08:49:59 -0800</pubDate>
+      
+      <guid>https://codecoffeeclimb.github.io/posts/the-trouble-with-distributed-systems/</guid>
+      <description>In a distributed software system, computers can only communicate through network. Here are the key issues in a distrubted software system that is not present in non-distributed ones:
+ Network is intrinsically unrealiable and network calls are unbounded. Clocks on different nodes are not in sync and there is no global clock time can be obtained as ground truth. Nodes and processes can fail or pause at any time for any reason.</description>
+    </item>
+    
     <item>
       <title>The Ultimate Book of System Design Interview</title>
       <link>https://codecoffeeclimb.github.io/posts/the-ultimate-book-of-system-design-interview/</link>
